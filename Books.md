@@ -1,6 +1,6 @@
 # Важные для меня книги.
 
-Эти книги были прочитаны мной на этапе перехода от разработчика к  архитектору. В этот момент потребовалась систематизация знаний и дополнительная информация от светил компьютерных наук.
+Эти книги большей частью были прочитаны мной на этапе перехода от разработчика к  архитектору. В этот момент потребовалась систематизация знаний и дополнительная информация от светил компьютерных наук.
 
 Многие из них читал по нескольку раз, каждый раз на новом уровне понимания проблематики.
 
@@ -50,6 +50,14 @@
 - Humble Devassy Chirammal. Prasad Mukhedkar. Anil Vettathu. Mastering KVM Virtualization Dive in to the cutting edge techniques of Linux KVM virtualization, and build the virtualization solutions your datacentre demands.
 - Wasim Ahmed. Mastering Proxmox. Master Proxmox VE to effectively implement server virtualization technology within your network.
 - 
+
+## C++
+
+## Разное
+
+- С. Чакон, Б. Штрауб. Git для профессионального программиста.
+- JUSTIN RICHER, ANTONIO SANSO. OAuth 2 in Action.
+- В. Олифер, Н. Олифер. Компьютерные сети. Принципы, технологии, протоколы.
 
 
 
