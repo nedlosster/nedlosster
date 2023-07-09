@@ -6,7 +6,7 @@
 
 # Пару слов обо мне
 
-Более 20 лет занимаюсь разработкой программного обеспечения. Люблю свое Дело жизни посвещая свободное время изучению новых технологий и практик компьютерных наук.
+Более 20 лет занимаюсь разработкой программного обеспечения. Люблю свое Дело жизни, посвещая очень много времени изучению новых технологий и современных компьютерных практик.
 
 ## Чем занимаюсь
 
@@ -43,6 +43,6 @@ Postgres, Cassandra, Kafka, Spark+hadoop, Apache Airflow (ETL), Apache Nifi.
 
 ## Ключевые технологии
 
-- Kubernetes, Scala, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
+- Kubernetes, werf, Scala, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
 
 ## [Книги](Books.md), которые сделали меня.

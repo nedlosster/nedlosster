@@ -16,13 +16,13 @@
 - Сэм Ньюмен. От монолита к микросервисам. Эволлюцинные шаблоны для трансформации монолитной системы.
 - Крис Ричардсон. Микросервисы. Паттерны разработки и рефакторинга.
 - Роланд Кун. Реактивные шаблоны проектирования.
-- Lee Atchison. Architection for Scale. How to Maintain High Availability and Manage Rsk in the Cloud
+- Lee Atchison. Architection for Scale. How to Maintain High Availability and Manage Risk in the Cloud
 - Мартин Клеппман. Высоко-нагруженные приложения. Программирование масштабирование поддержка.
 
 ## Событийно-ориентированные системы
 
 - Бен Стопфорд. Проектирование событийно-ориентированных систем. Концепции и шаблоны проектирования сервисов потоковой обработки данных с использованием Apache Kafka.
-- Ния Нархид, Гвен Шапира, Тодд Палино. Apache KAfka. Потоковая обработка и анализ данных.
+- Ния Нархид, Гвен Шапира, Тодд Палино. Apache Kafka. Потоковая обработка и анализ данных.
 - Дилан Скотт. Виктор Гамов. Дейв Клейн. Kafka в действии.
 - Билл Беджек. Kafka Streams в действии.
 
@@ -36,3 +36,20 @@
 - М. Тамер Есу, Патрик Вальдуриес. Принципы организации распределенных баз данных.
 - Сэнди Риза, Ури Лезерсон, Шон Оуэн, Джош Уиллс. Spark для прогфессионалов. Современные паттерны обработки больших данных.
 - Холден Карау. рейчел Уоррен. Эффективный Spark. Масштабирование и оптимизация.
+
+## devops. виртуализация и контейнерная оркестрация.
+
+- Лиз Райс. Безопасность контейнеров. Фундаментальный подход к защите контейнеризированных приложений.
+- Марко Лукша. Kubernetes в действии.
+- Джей Вьяс. Крис Лав. Kubernetes изнутри.
+- Евгений Брикман. Terraform. Инфраструктура на уровне кода.
+- Джон Арундел. Джастин Домингус. Kubernetes для DevOps. развертывание, запуск и масштабирование в облаке.
+- Джульен Вехен. Безопасный DevOps.
+- Джиджи Сайфан. Осваиваем Kubernetes. Оркестрация контейнерных архитектур.
+- Karan Singh. Learning Ceph. A practical guide to designing, implementing, and managing your software-defined, massively scalable Ceph storage system.
+- Humble Devassy Chirammal. Prasad Mukhedkar. Anil Vettathu. Mastering KVM Virtualization Dive in to the cutting edge techniques of Linux KVM virtualization, and build the virtualization solutions your datacentre demands.
+- Wasim Ahmed. Mastering Proxmox. Master Proxmox VE to effectively implement server virtualization technology within your network.
+- 
+
+
+
