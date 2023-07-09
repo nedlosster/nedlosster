@@ -1,4 +1,8 @@
-# Олейник Денис Сергеевич - ИТ Архитектор, Разработчик.
+# Олейник Денис Сергеевич 
+
+ИТ Архитектор (Платформенный и продуктовый), Разработчик.
+
+Написать мне: nedlo@yandex.ru
 
 # Пару слов обо мне
 
@@ -39,8 +43,6 @@ Postgres, Cassandra, Kafka, Spark+hadoop, Apache Airflow (ETL), Apache Nifi.
 
 ## Ключевые технологии
 
-- Kubernetes, Scala, Akka, Jvm, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, ELK, Kibana, CQRS, event-driven.
+- Kubernetes, Scala, Akka, Jvm, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2
 
-## Книги
-
-- Важные для меня [книги](Books.md)
+## [Книги](Books.md), которые сделали меня.
