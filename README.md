@@ -43,6 +43,6 @@ Postgres, Cassandra, Kafka, Spark+hadoop, Apache Airflow (ETL), Apache Nifi.
 
 ## Ключевые технологии
 
-- Kubernetes, Scala, Akka, Jvm, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2
+- Kubernetes, Scala, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
 
 ## [Книги](Books.md), которые сделали меня.
