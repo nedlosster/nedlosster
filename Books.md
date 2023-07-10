@@ -55,6 +55,14 @@
 
 ## Java/Spring/WebFlux
 
+- Кристиан Бауэр, Гэвин Кинг, Гэри Грегори. Java Persistence API и Hibernate.
+- Джош Лонг, Кеннет Бастани. Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry.
+- Бенджамин Эванс, Джеймс Гоф и Kpuc Ньюланд. Java: оптимизация программ. Практические методы повышения производительности приложений в JVM.
+- Гетц Брайан, Пайерлс Тим, Блох Джошуа, Боубер Джозеф, Холмс Дэвид, Ли Даг. JAVA CONCURRENCY НА ПРАКТИКЕ.
+- Juha Hinkula. Full Stack Development with Spring Boot and React. Build modern and scalable full stack applications using the power of Spring Boot and React.
+- Олег Докука, Игорь Лозинский. Практика реактивного программирования в Spring 5. Создание облачных реактивных систем с помощью Spring 5 и Project Reactor.
+- Марк Хеклер. Spring Boot по-быстрому. Создаем облачные приложения на Java и Kotlin.
+
 ## Python
 
 - Гарри Персиваль, Боб Грегори. Паттерны разработки на Python TDD, DDD и событийно-ориентированная архитектура.
