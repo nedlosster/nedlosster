@@ -26,7 +26,6 @@
 - Дилан Скотт. Виктор Гамов. Дейв Клейн. Kafka в действии.
 - Билл Беджек. Kafka Streams в действии.
 
-
 ## Обработка и хранение данных
 
 - Бас Харенслак, Apache Airflow и конвейеры обработки данных.
@@ -49,7 +48,6 @@
 - Karan Singh. Learning Ceph. A practical guide to designing, implementing, and managing your software-defined, massively scalable Ceph storage system.
 - Humble Devassy Chirammal. Prasad Mukhedkar. Anil Vettathu. Mastering KVM Virtualization Dive in to the cutting edge techniques of Linux KVM virtualization, and build the virtualization solutions your datacentre demands.
 - Wasim Ahmed. Mastering Proxmox. Master Proxmox VE to effectively implement server virtualization technology within your network.
-
 
 ## Scala/Akka
 
@@ -85,7 +83,7 @@
 - Kyle simpson. Вы не знаете JS. Область видимости и замыкания. 
 - Kyle simpson. ES6 и не только.
 - Kyle simpson. Вы не знаете JS. АСИНХРОННАЯ ОБРАБОТКА ОПТИМИЗАЦИЯ.
-- Kyle simpson. Вы не знаете JS. ТИПЬI & ГРАММАТИЧЕСКИЕ КОНСТРУКЦИИ.
+- Kyle simpson. Вы не знаете JS. ТИПЫ & ГРАММАТИЧЕСКИЕ КОНСТРУКЦИИ.
 - Натан Розенталс. Изучаем TypeScript 3. Создавайте промышленные веб-приложения корпоративного класса с использованием TypeScript 3 и современных фреймворков.
 - Крокфорд Д. Как устроен JavaScript.
 - Влад Ришкуция. Программируй & типизируй. С примерами на TypeScript.
@@ -96,7 +94,6 @@
 - Борис Черный. Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений.
 - Кирупа Чиннатамби. Изучаем React.
 - Алекс Янг, Брэдли Мек, Майк Кантелон. Node.Js в действии.
-
 
 ## C++
 
