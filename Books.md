@@ -53,6 +53,15 @@
 
 ## Scala/Akka
 
+- 
+- Раймонд Рестенбург, Роб Баккер, Роб Уильямс. Akka в действии.
+- PAUL CHIUSANO, RÚNAR BJARNASON. Functional Programming in Scala.
+- Vincent Theron, Michael Diamant. Scala High Performance Programming.
+- Мартин Одерски, Лекс Спун, Билл Веннерс, Фрэнк Соммерс. Профессиональное программирование Scala. 5-е издание.
+- JOSHUA SUERETH, MATTHEW FARWELL. sbt in Action. THE SIMPLE SCALA BUILD TOOL.
+- Jenny Clements. Scala with Cats.
+- Александр Прокопец. Конкрурентное программирование на Scala.
+
 ## Java/Spring/WebFlux
 
 - Кристиан Бауэр, Гэвин Кинг, Гэри Грегори. Java Persistence API и Hibernate.
