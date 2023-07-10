@@ -62,6 +62,12 @@
 - Juha Hinkula. Full Stack Development with Spring Boot and React. Build modern and scalable full stack applications using the power of Spring Boot and React.
 - Олег Докука, Игорь Лозинский. Практика реактивного программирования в Spring 5. Создание облачных реактивных систем с помощью Spring 5 и Project Reactor.
 - Марк Хеклер. Spring Boot по-быстрому. Создаем облачные приложения на Java и Kotlin.
+- Блох Д. Java. Эффективное программирование.
+- Николай Парлог. Система модулей Java.
+- Рауль-Габриэль Урма, Марио Фуско, Алан Майкрофт. Современный язык Java. Лямбда-выражения, потоки и функциональное программирование.
+- Кен Коузен. Современный Java: рецепты программирования.
+- Марко Фаэлла. Стильный Java.
+- Оукс Скотт. Эффективный Java. Тюнинг кода на Java 8, 11 и дальше.
 
 ## Python
 
