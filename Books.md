@@ -49,9 +49,24 @@
 - Karan Singh. Learning Ceph. A practical guide to designing, implementing, and managing your software-defined, massively scalable Ceph storage system.
 - Humble Devassy Chirammal. Prasad Mukhedkar. Anil Vettathu. Mastering KVM Virtualization Dive in to the cutting edge techniques of Linux KVM virtualization, and build the virtualization solutions your datacentre demands.
 - Wasim Ahmed. Mastering Proxmox. Master Proxmox VE to effectively implement server virtualization technology within your network.
-- 
+
+
+## Scala/Akka
+
+## Java/Spring/WebFlux
+
+## Python
+
+## JavaScript/Typescript
 
 ## C++
+
+- Мейерс С. Эффективный и современный C++ 42 рекомендации по использованию C++11 и C++14.
+- Галовиц Яцек. C++17_STL_Стандартная_библиотека_шаблонов.
+- Williams A. C++ Concurrency in Action, 2nd edition.
+- О’Двайр Артур. Осваиваем_C++17_STL
+- Стефан К. Дьюхэрст. Cкользкие места C++. Как избежать проблем при проектировании и компиляции ваших программ.
+- Herb Sutter, Andrei Alexandrescu. C++ Coding Standards.
 
 ## Разное
 
