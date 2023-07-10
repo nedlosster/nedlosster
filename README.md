@@ -46,3 +46,5 @@
 - Kubernetes, werf, Scala, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
 
 ## [Книги](Books.md), которые сделали меня.
+
+По ним можно судить о моих проф.интересах и компетенциях.
