@@ -51,7 +51,7 @@
 - Humble Devassy Chirammal. Prasad Mukhedkar. Anil Vettathu. Mastering KVM Virtualization Dive in to the cutting edge techniques of Linux KVM virtualization, and build the virtualization solutions your datacentre demands.
 - Wasim Ahmed. Mastering Proxmox. Master Proxmox VE to effectively implement server virtualization technology within your network.
 
-## Scala/Akka
+## Scala
 
 - Раймонд Рестенбург, Роб Баккер, Роб Уильямс. Akka в действии.
 - PAUL CHIUSANO, RÚNAR BJARNASON. Functional Programming in Scala.
