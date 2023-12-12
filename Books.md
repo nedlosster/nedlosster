@@ -60,6 +60,8 @@
 - JOSHUA SUERETH, MATTHEW FARWELL. sbt in Action. THE SIMPLE SCALA BUILD TOOL.
 - Jenny Clements. Scala with Cats.
 - Александр Прокопец. Конкрурентное программирование на Scala.
+- Practical FP in Scala. A hands-on approach. Gabriel Volpe
+- Functional event-driven architecture.Powered by Scala 3. Gabriel Volpe
 
 ## Java/Spring/WebFlux
 
