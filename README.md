@@ -18,16 +18,16 @@
 ##  Ключевые навыки
 
 - Архитектурная разработка проектов, руководство командами разработчиков в телекоме (биллинг, ЛК, статистика).
-- Действующий разработчик в стеках Scala/AKKA/Typelevel, Java/Spring,  C++17, python, js/typescript.
+- Действующий разработчик в стеках Scala/AKKA/Typelevel (сейчас в приоритете), Java/Spring,  C++17, python, js/typescript.
 - Эксперт в Kafka/Kafka Streams/Kafka connect. Опыт построенияни высоконагруженных систем обработки событий в реальном временени. Выстранивание ETL-процессов. Организация аналитических процессов на больших данных.
-- Эксперт в SQL/NoSQL. (Postgres/Cassandra) опрыт внедрения и эксплуатации на уровне  разработчика и администратора. Использование в высоконагруженных, распределенных, высоконадежных проектах, особенно с продуктами на стеке Scala/Akka Persistent. Знаком с MySQL/MongoDB/Redis.
-- Эксперт в Kubernetes: проектирование, разворот, эксплуатация облаков в собственных датацентрах. Руководство группой девопс и админов платформ виртуализации. (Proxmox/KVM/Terraform/Ansible). Внедрение Keycloak/Oauth2.
+- Эксперт в SQL/NoSQL. (Postgres/Cassandra) опрыт внедрения и эксплуатации на уровне  разработчика и администратора. Использование в высоконагруженных, распределенных, высоконадежных проектах, особенно с продуктами на стеке Scala/Akka Persistent.
+- Эксперт в Kubernetes: проектирование, разворот, эксплуатация облаков в собственных датацентрах. Руководство группой девопс и админов платформ виртуализации. (Proxmox/KVM/Terraform/Ansible). 
 - Понимание работы телекома. СОРМ, биллинг, статистика, аналитика, маршрутизация.
 - Мониторинг: Prometheus, Grafana, ELK, Graylog, SuperSet. проектирование, внедрение, постановка задач аналитикам.
 
 ## Интересы
 
-- Функциональное программирование. Создание надежных, многопоточных, отказустойчивых, высоконагруженных решений в стеке Skala/TypeLevel/FS2/Akka
+- Функциональное программирование. Создание надежных, многопоточных, отказустойчивых, высоконагруженных решений в стеке Skala/СatsEffects3/FS2/Akka
 
 - Проектирование и создание сред виртуализации создания и исполнения продуктового (дев и прод окружения) кода компании. разработка стратегий и решений devops в масштабах предприятия. 
 
@@ -46,7 +46,7 @@
 
 ## Ключевые технологии
 
-- Kubernetes, werf, Scala, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Hadoop, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
+- Kubernetes, Scala, Cats/CatsEffect, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
 
 ## [Книги](Books.md), которые сделали меня.
 
