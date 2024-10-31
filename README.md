@@ -17,7 +17,7 @@
 
 ##  Ключевые навыки
 
-- Архитектурная разработка проектов, руководство командами разработчиков в телекоме (биллинг, ЛК, статистика).
+- Архитектурная разработка проектов, руководство командами разработчиков в телекоме (биллинг, ЛК, статистика). Методология C4model
 - Действующий разработчик в стеках Scala/CatsEffect/AKKA (сейчас в приоритете), Java/Spring,  C++17, python, js/typescript.  
 - Эксперт в Kafka/Kafka Streams/Kafka connect. Опыт построения высоконагруженных систем обработки событий реального временени. Выстранивание ETL-процессов. Организация аналитических процессов на больших данных.
 - Эксперт в SQL/NoSQL. (Postgres/Cassandra) опрыт внедрения и эксплуатации на уровне  разработчика и администратора. Использование в высоконагруженных, распределенных, высоконадежных проектах, особенно с продуктами на стеке Scala/Akka Persistent.
@@ -46,7 +46,7 @@
 
 ## Ключевые технологии
 
-- Kubernetes, Scala, Cats/CatsEffect, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
+- C4model,Kubernetes, Scala, Cats/CatsEffect, Akka, Java, C++, Python, JavaScript, Cassandra, Postgres, Kafka, Etl, ZeeBe, Spark, Graylog, Prometheus, devops, kvm, proxmox, ceph, ELK, Kibana, CQRS, event-driven, OpenApi, AsyncApi, Keycloak, Oauth2, devops
 
 ## [Книги](Books.md), которые сделали меня.
 
