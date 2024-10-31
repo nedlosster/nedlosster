@@ -63,6 +63,7 @@
 - Александр Прокопец. Конкрурентное программирование на Scala.
 - *Practical FP in Scala. A hands-on approach. Gabriel Volpe*
 - *Functional event-driven architecture.Powered by Scala 3. Gabriel Volpe*
+- *Zionomicon. John De Goes and Adam Fraser*
 
 ## Java/Spring/WebFlux
 
