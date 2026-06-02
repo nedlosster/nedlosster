@@ -40,13 +40,6 @@ AI-инференса. Беру разные роли в зависимости 
   локальный inference в изолированном контуре.
 - Языки: Scala (эксперт, FP/Typelevel), Java, C++, Python, Go, TypeScript.
 
-## Открытые проекты
-
-- [ai-plant](https://github.com/nedlosster/ai-plant) — сервер локального inference на AMD Strix Halo.
-  Документация по развёртыванию, бенчмарки, работа в закрытом контуре.
-- [auto-ssh-tunnels](https://github.com/nedlosster/auto-ssh-tunnels) — менеджер SSH-туннелей через
-  YAML и systemd. Сборка .deb/.rpm, watchdog, logrotate.
-
 ## Методологии
 
 - AI_CLOSED_LOOP_METHODOLOGY — практика применения LLM в изолированном контуре.
